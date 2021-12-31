@@ -13,7 +13,7 @@ Front Isometric View       |  Top Electronics View
 Check the *'imgs'* folder to see other views.
 Here are the robot drawings:
 
-<img src="imgs/drawing.png" alt="Drawing" width="800"/>
+<img src="imgs/drawing.png" alt="Drawing" width="870"/>
 
 ### Resources
 Some of the models used to assemble the omniBot were taken from other sources.
